@@ -1,0 +1,3 @@
+[submodule "test"]
+	path = test
+	url = https://github.com/seo-h2/Boostcamp-AI-Tech.git
